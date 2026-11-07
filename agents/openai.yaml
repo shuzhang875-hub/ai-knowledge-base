@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI 知识库"
+  short_description: "采访搭建六分区知识库，配置全局入口，跨项目记住近况、整理灵感与体检"
+  default_prompt: "用 $ai-knowledge-base 帮我搭知识库。"
+policy:
+  allow_implicit_invocation: true

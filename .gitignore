@@ -1,0 +1,11 @@
+auth.json
+.env
+.env.*
+*.log
+*.jsonl
+*.kb-backup-*
+__pycache__/
+node_modules/
+.cache/
+work/
+evidence/
